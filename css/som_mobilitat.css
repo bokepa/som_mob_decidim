@@ -1,0 +1,29 @@
+
+.title-bar{
+background-color: #ffffff;
+color: #1a181d;
+}
+.topbar__dropmenu > ul > li > a, .topbar__user__login a{
+color: #585858;
+}
+.topbar__dropmenu > ul > li > a::after{
+border-top-color: #585858 !important;
+}
+.main-footer__badge{
+width: 90px;
+}
+.mini-footer .decidim-logo{
+display: none;
+}
+.topbar__notifications .icon, .topbar__conversations .icon{
+fill: #585858;
+}
+.topbar__edit__link a {
+  color: #585858;
+}
+.topbar__edit__link a:hover {
+  background: rgba(255, 255, 255, 0.02);
+  color: #f00;
+}
+
+
